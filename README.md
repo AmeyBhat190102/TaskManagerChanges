@@ -2,7 +2,7 @@
 
 Task Manager is a web application that allows you to manage and track your tasks efficiently. With Task Manager, you can add, view, edit, and delete tasks, assign categories and priorities to them, and even add notes and track their status.
 
-# Deployment Link : https://ameybhat190102.github.io/TaskManagerChanges/
+## Deployment Link : https://ameybhat190102.github.io/TaskManagerChanges/
 
 ## Features
 
